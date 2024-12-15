@@ -2,8 +2,10 @@
 Group Project
 Matt Carey, Kai Hansen, Paula M-Bailey, Steve Njoroge, and Mohammed Qurneh
 
-[jupyternotebook](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
+[Complete jupyter notebook](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
+
 [Github repro ](https://github.com/kaihansen8/3162FinalProject)
+
 [blog](https://kaihansen8.github.io/3162FinalProject/)
 
 **Introduction**
